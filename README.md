@@ -2,7 +2,7 @@
 Optimal Location and Sizing of DSTATCOM in Distribution Systems by Immune Algorithm
 Abbas Arang, MSc graduate1, Sajjad Ahmadi, MSc graduate2, Donya Ashtiani Haghighi, PHD student3, Yazdan Ashgevari, Professor4, 
 Adel Akbarimajd, Associate Professor5
-1- Department of electrical engineering, Sowme'eh Sara branch, Islamic Azad University, Sowme'eh Sara, Iran, Email:
+1- Department of electrical engineering, Sowme'eh Sara branch, Islamic Azad University, Sowme'eh Sara, Iran, Email:abas.0087@yahoo.com
 2- Department of electrical engineering, Ardabil Science and Research Branch, Islamic Azad University, Ardabil, Iran, 
 Email: sajjadahmadi2647@gmail.com
 3- Electrical Engineering Department, University of Zanjan, Zanjan, Iran, Email: d.ashtiani.h@gmail.com
